@@ -1,25 +1,12 @@
-<!--
-    Copyright (C) 2016 The Android Open Source Project
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-         http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="24.0dp"
-        android:height="24.0dp"
-        android:viewportWidth="24.0"
-        android:viewportHeight="24.0"
-        android:tint="?android:attr/colorControlNormal">
-    <path
-        android:fillColor="#FFFFFFFF"
-        android:pathData="M23.66,8.11c0.39,-0.48 0.29,-1.19 -0.22,-1.54C21.67,5.36 17.55,3 12,3 6.44,3 2.33,5.36 0.56,6.57c-0.51,0.35 -0.61,1.06 -0.23,1.54L11.16,21.6c0.42,0.53 1.23,0.53 1.66,0L23.66,8.11z"/>
+<?xml version="1.0" encoding="utf-8" ?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" 
+        android:tint="?android:attr/colorControlNormal" 
+        android:height="24.0dip" android:width="24.0dip" 
+        android:viewportWidth="24.0" 
+        android:viewportHeight="24.0">
+<group>
+<group>
+<path android:fillColor="#ff1a1a1c" android:pathData="M11,15.9 L0,4.7 C5.9,-1.4,15.5,-1.5,21.6,4.3 C21.7,4.4,21.9,4.6,22,4.7 L11,15.9 Z" android:strokeWidth="1.0" />
+</group>
+</group>
 </vector>
